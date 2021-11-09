@@ -1,2 +1,2 @@
 # Einführung in das Maschinelle Lernen
-Wintersemester 21/22
+Code-Repository für den Kurs "Einführung in das Maschinelle Lernen" an der Hochschule Karlsruhe.
